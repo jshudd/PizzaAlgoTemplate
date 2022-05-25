@@ -1,0 +1,7 @@
+1. Decide what restaurant to order from
+2. Decide what pizza to order
+3. Call restaurant
+4. Complain they don't accept bitcoin
+5. Wait on delivery driver
+6. Tip driver
+7. Eat pizza
