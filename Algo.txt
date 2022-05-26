@@ -3,5 +3,6 @@
 3. Call restaurant
 4. Complain they don't accept bitcoin
 5. Wait on delivery driver
+5a Argue with driver about how slow they were
 6. Tip driver
 7. Eat pizza
